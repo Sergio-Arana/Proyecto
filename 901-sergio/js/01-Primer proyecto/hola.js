@@ -1,1 +1,1 @@
-console.log("Hola Mundo, Luis Gay");
+console.log("Hola Mundo");
