@@ -1,1 +1,1 @@
-console.log("Aqui inicia todo, Luis Gay");
+console.log("Aqui inicia todo");
